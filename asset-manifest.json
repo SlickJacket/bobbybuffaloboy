@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/bobbybuffaloboy/static/css/main.c7f11bee.chunk.css",
+    "main.js": "/bobbybuffaloboy/static/js/main.92720994.chunk.js",
+    "main.js.map": "/bobbybuffaloboy/static/js/main.92720994.chunk.js.map",
+    "runtime-main.js": "/bobbybuffaloboy/static/js/runtime-main.0aadfad2.js",
+    "runtime-main.js.map": "/bobbybuffaloboy/static/js/runtime-main.0aadfad2.js.map",
+    "static/js/2.13314106.chunk.js": "/bobbybuffaloboy/static/js/2.13314106.chunk.js",
+    "static/js/2.13314106.chunk.js.map": "/bobbybuffaloboy/static/js/2.13314106.chunk.js.map",
+    "index.html": "/bobbybuffaloboy/index.html",
+    "precache-manifest.930fd6a5d3a81c938d7d8f45c2bbbf53.js": "/bobbybuffaloboy/precache-manifest.930fd6a5d3a81c938d7d8f45c2bbbf53.js",
+    "service-worker.js": "/bobbybuffaloboy/service-worker.js",
+    "static/css/main.c7f11bee.chunk.css.map": "/bobbybuffaloboy/static/css/main.c7f11bee.chunk.css.map",
+    "static/js/2.13314106.chunk.js.LICENSE": "/bobbybuffaloboy/static/js/2.13314106.chunk.js.LICENSE",
+    "static/media/Melius1.png": "/bobbybuffaloboy/static/media/Melius1.3181af4d.png",
+    "static/media/Melius1gf.gif": "/bobbybuffaloboy/static/media/Melius1gf.f51de274.gif",
+    "static/media/Melius_Logo2.png": "/bobbybuffaloboy/static/media/Melius_Logo2.31dd690b.png",
+    "static/media/goldteethusalogo.png": "/bobbybuffaloboy/static/media/goldteethusalogo.c0642ff2.png",
+    "static/media/gtusagf.gif": "/bobbybuffaloboy/static/media/gtusagf.ba5ea3f1.gif",
+    "static/media/heart.png": "/bobbybuffaloboy/static/media/heart.38753e6c.png",
+    "static/media/melius2gf.gif": "/bobbybuffaloboy/static/media/melius2gf.67ab1d6e.gif",
+    "static/media/profile.png": "/bobbybuffaloboy/static/media/profile.961bcbeb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0aadfad2.js",
+    "static/js/2.13314106.chunk.js",
+    "static/css/main.c7f11bee.chunk.css",
+    "static/js/main.92720994.chunk.js"
+  ]
+}
